@@ -26,3 +26,5 @@ title: Research
 ---
 
 ## Works in Progress
+* **On Strategic Civilian Targeting in Civil War** <br>
+*With Gina Eckhoff*
