@@ -19,7 +19,7 @@ title: Research
     </div>
   </details>
   
-   **Presented at:** LSE Environment Camp, IPWSD (Columbia), MWIEDC
+      **Presented at:** LSE Environment Camp, IPWSD (Columbia), MWIEDC
 ---
 
 <!--## Publications 
