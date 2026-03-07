@@ -9,7 +9,7 @@ layout: default
 title: Home
 ---
 
-<img src="./github_photo.jpg" alt="Profile Photo" style="float: left; width: 300px; margin-right: 20px; border-radius: 4px;">
+<img src="./photos/github_photo.jpg" alt="Profile Photo" style="float: left; width: 300px; margin-right: 20px; border-radius: 4px;">
 
 Welcome! I am a researcher specializing in [Your Field]. My work focuses on bridging the gap between [Topic A] and [Topic B]. 
 
