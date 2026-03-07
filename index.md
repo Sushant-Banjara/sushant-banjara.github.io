@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Sushant Banjara
 ---
 
 # About Me
