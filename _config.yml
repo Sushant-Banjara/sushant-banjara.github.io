@@ -4,4 +4,4 @@ description: A sleek site hosted on GitHub Pages.
 show_downloads: false
 
 # Theme Selection
-remote_theme: pages-themes/merlot
+remote_theme: pages-themes/cayman
