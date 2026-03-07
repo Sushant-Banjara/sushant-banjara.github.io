@@ -4,17 +4,13 @@ layout: default
 
 # About Me
 
-<img src="./photos/github_photo.JPG" alt="Profile Photo" style="float: left; width: 300px; margin-right: 20px; border-radius: 4px;">
+<img src="./photos/profile.jpg" alt="Sushant Banjara" style="float: left; width: 320px; margin-right: 25px; border-radius: 4px; margin-bottom: 10px;">
 
-Welcome! I am a researcher specializing in [Your Field]. My work focuses on bridging the gap between [Topic A] and [Topic B]. 
+Welcome!
 
-When I'm not in the lab, you can find me [Your Hobby].
+<div style="clear: both;"></div>
 
-<div style="clear: both; padding-top: 20px;"></div>
-
-### [Curriculum Vitae](./your-cv-file.pdf)
+### [Curriculum Vitae](./cv.pdf)
 
 ---
-[View my Research](./research)
-
-[View my Research](./research)
+#### [Research](./research) | [Teaching](#) | [Contact](#)
