@@ -28,3 +28,9 @@ title: Research
 ## Works in Progress
 * **On Strategic Civilian Targeting in Civil War** <br>
 *With Gina Eckhoff*
+
+* **The Economic Costs of Climate Change From Ecosystem Disruptions: Evidence From Forest Defoliation Outbreaks in the United States** <br>
+   *With Eyal Frank, Greg Dwyer, and Andrew M. Liebhold*
+
+* **When Do Incentives for Preemptive Action Erode Gains from Policy? Studying the Effectiveness of the Endangered Species Act**
+   *With Eyal Frank and Anouch Missirian*
