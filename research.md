@@ -32,5 +32,5 @@ title: Research
 * **The Economic Costs of Climate Change From Ecosystem Disruptions: Evidence From Forest Defoliation Outbreaks in the United States** <br>
    *With Eyal Frank, Greg Dwyer, and Andrew M. Liebhold*
 
-* **When Do Incentives for Preemptive Action Erode Gains from Policy? Studying the Effectiveness of the Endangered Species Act**
+* **When Do Incentives for Preemptive Action Erode Gains from Policy? Studying the Effectiveness of the Endangered Species Act** <br>
    *With Eyal Frank and Anouch Missirian*
