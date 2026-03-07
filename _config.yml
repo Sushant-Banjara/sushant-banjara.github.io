@@ -1,7 +1,3 @@
-# Site Settings
 title: Sushant Banjara
 description: University of Chicago
-show_downloads: false
-
-# Theme Selection
 remote_theme: pages-themes/cayman
