@@ -6,26 +6,38 @@
     padding-top: 2rem !important;
     padding-bottom: 2rem !important;
     min-height: 150px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .main-content {
     padding-top: 1rem !important;
 }
 
-/* Custom Navigation Styling */
-.btn {
-  display: inline-block !important;
-  color: #ffffff !important;           /* Ensures text is white */
-  background-color: #159957 !important; /* Cayman green */
-  padding: 0.5rem 1rem !important;
-  margin: 5px !important;
-  text-decoration: none !important;
-  border-radius: 0.3rem !important;
+/* Custom Navigation Styling - Pure White & Bold */
+.nav-link, 
+.nav-link:link, 
+.nav-link:visited, 
+.nav-link:hover, 
+.nav-link:active {
+  color: #ffffff !important;         /* Forces pure white in all states */
+  font-weight: 800 !important;      /* Makes the text bold */
+  text-decoration: none !important; /* Removes default underline */
+  margin: 0 15px !important;        /* Adds space between the words */
+  font-size: 1.1rem !important;
+  display: inline-block;
+  opacity: 1 !important;            /* Prevents the text from looking faded */
+}
+
+.nav-link:hover {
+  text-decoration: underline !important; /* Adds underline only when hovering */
 }
 
 @media screen and (max-width: 640px) {
-  .btn {
-    display: block;               /* Stack buttons on mobile */
-    margin-bottom: 5px !important;
+  .nav-link {
+    display: block;                 /* Stacks links vertically on mobile */
+    margin: 10px 0 !important;
   }
 }
