@@ -1,1 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
 
+.page-header {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+    min-height: 150px !important;
+}
+
+.main-content {
+    padding-top: 1rem !important;
+}
