@@ -6,8 +6,7 @@ title: Research
 # Research
 
 ## Working Papers
-* **Environmental Degradation in One’s Own Backyard: Who Gains and Who Loses from Sand Mining in India**<br>
-    *With Claire Fan and Varun K* <br>
+* **Environmental Degradation in One’s Own Backyard: Who Gains and Who Loses from Sand Mining in India** (*With Claire Fan and Varun K*) <br>
      **Presented at:** LSE Environment Camp, IPWSD (Columbia), MWIEDC
   <details>
     <summary>
