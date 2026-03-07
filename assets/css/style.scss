@@ -11,3 +11,18 @@
 .main-content {
     padding-top: 1rem !important;
 }
+
+/* Custom Navigation Styling */
+.btn {
+  padding: 0.5rem 1rem !important; /* Makes buttons smaller */
+  margin: 0 5px !important;       /* Adds spacing between buttons */
+  font-size: 0.9rem !important;   /* Sets a clean font size */
+  display: inline-block;
+}
+
+@media screen and (max-width: 640px) {
+  .btn {
+    display: block;               /* Stack buttons on mobile */
+    margin-bottom: 5px !important;
+  }
+}
