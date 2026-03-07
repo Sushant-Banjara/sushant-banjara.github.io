@@ -19,10 +19,6 @@ title: Research
     </div>
   </details>
 
-* **Paper Title Two** (2025)  
-    *Abstract:* Another interesting project summary for your second working paper.  
-    [Download PDF](./files/paper2.pdf)
-
 ---
 
 ## Publications
