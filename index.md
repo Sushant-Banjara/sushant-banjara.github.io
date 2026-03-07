@@ -2,6 +2,12 @@
 layout: default
 title: Sushant Banjara
 ---
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="./" class="btn">Home</a>
+  <a href="./research" class="btn">Research</a>
+  <a href="./teaching" class="btn">Teaching</a>
+  <a href="./contact" class="btn">Contact</a>
+</div>
 
 # About Me
 
