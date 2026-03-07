@@ -21,9 +21,9 @@ title: Research
 
 ---
 
-## Publications
+<!--## Publications 
 
----
+--- add publication when you have one. Add it before working papers-->
 
 ## Works in Progress
 * **On Strategic Civilian Targeting in Civil War** <br>
