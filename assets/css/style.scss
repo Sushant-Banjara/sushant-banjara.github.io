@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-/* 1. Narrow the Vertical Band */
+/* 1. Header Styling (Universal) */
 .page-header {
   padding: 1.2rem 1rem !important; 
   min-height: auto !important;
@@ -12,7 +12,6 @@
   justify-content: center;
 }
 
-/* 2. Tighten Title and Tagline spacing */
 .project-name {
   margin-top: 0 !important;
   margin-bottom: 0.1rem !important;
@@ -22,12 +21,8 @@
   margin-bottom: 0.4rem !important;
 }
 
-/* 3. Navigation Links: Pure White & Bold */
-.nav-link, 
-.nav-link:link, 
-.nav-link:visited, 
-.nav-link:hover, 
-.nav-link:active {
+/* 2. Navigation Links */
+.nav-link, .nav-link:link, .nav-link:visited {
   color: #ffffff !important;
   font-weight: 800 !important;
   text-decoration: none !important;
@@ -36,84 +31,71 @@
   display: inline-block;
 }
 
-/* 4. Abstract & Triangular Toggle Styling */
-details {
-  margin: 10px 0;
+/* 3. Desktop Horizontal Split (Screens > 800px) */
+@media screen and (min-width: 801px) {
+  .profile-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px; /* Space between photo and text */
+  }
+  
+  .profile-photo {
+    flex: 0 0 250px; /* Photo fixed width */
+  }
+  
+  .profile-text {
+    flex: 1; /* Text fills the rest */
+  }
 }
 
-/* Hide the default browser arrow */
-summary::-webkit-details-marker {
-  display: none;
+/* 4. Mobile Vertical Stack (Screens <= 800px) */
+@media screen and (max-width: 800px) {
+  .profile-container {
+    display: block;
+    text-align: center;
+  }
+
+  .profile-photo img {
+    max-width: 200px !important;
+    height: auto !important;
+    margin: 0 auto 20px auto !important;
+    display: block !important;
+  }
+
+  .profile-text {
+    text-align: left;
+    width: 100% !important;
+  }
 }
 
+/* 5. Abstract & Toggle Styling */
 summary {
   list-style: none;
   display: flex;
   align-items: center;
   font-weight: 700;
-  color: #155799 !important; /* Your requested blue */
+  color: #155799 !important;
   cursor: pointer;
-  outline: none;
 }
 
-/* The Triangle Button */
+summary::-webkit-details-marker { display: none; }
+
 summary::before {
-  content: '▶'; /* Right-facing triangle */
+  content: '▶';
   display: inline-block;
   font-size: 0.8rem;
   margin-right: 8px;
-  color: #155799 !important; /* Your requested blue */
   transition: transform 0.2s ease;
 }
 
-/* Rotate triangle to face DOWN when open */
 details[open] summary::before {
-  transform: rotate(90deg); /* 90-degree turn makes it point down */
+  transform: rotate(90deg);
 }
 
-/* The Abstract Content Box */
 .abstract-box {
   margin-top: 10px;
   padding: 15px;
   background-color: #f9f9f9;
-  /*border-left: 4px solid #155799; /* Blue accent bar */
   border-radius: 4px;
   line-height: 1.6;
-  color: #333;
 }
-
-/* 5. Pull Main Content closer */
-.main-content {
-  padding-top: 1rem !important;
-}
-
-/* Mobile-only overrides */
-@media screen and (max-width: 800px) {
-
-  /* 1. Force the photo and text containers to take full width */
-  .profile-photo, 
-  .profile-text,
-  div[style*="float"] {
-    float: none !important;
-    width: 100% !important;
-    display: block !important;
-    padding: 0 !important;
-    margin: 0 auto 20px auto !important;
-  }
-
-  /* 2. Resize and center the image so it doesn't look giant */
-  .profile-photo img, 
-  img {
-    max-width: 200px !important;
-    height: auto !important;
-    display: block !important;
-    margin: 0 auto !important;
-  }
-
-  /* 3. Ensure the text starts with a 'clean slate' below the photo */
-  .profile-text {
-    clear: both !important;
-    text-align: left;
-  }
-}
-  
