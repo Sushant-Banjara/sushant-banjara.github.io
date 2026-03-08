@@ -15,4 +15,4 @@ title: Sushant Banjara
 </div>
 ### [Curriculum Vitae](./cv.pdf)
 ---
-#### [Research](./research) | [Teaching](#) | [Contact](#)
+#### [Research](./research) | [Teaching](./Books/Remote Sensing/main) | [Contact](#)
