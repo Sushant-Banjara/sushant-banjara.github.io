@@ -86,3 +86,38 @@ details[open] summary::before {
 .main-content {
   padding-top: 1rem !important;
 }
+
+/* Target mobile phones specifically */
+@media screen and (max-width: 640px) {
+  
+  /* 1. Shrink the Hero Header height */
+  .page-header {
+    padding: 1.5rem 1rem !important; /* Reduces the massive top padding */
+    text-align: center;
+  }
+
+  /* 2. Fix the Photo size (if your photo is in the header) */
+  .page-header img, header img {
+    max-width: 120px !important; /* Stops the photo from filling the screen */
+    height: auto;
+    border-radius: 50%; /* Makes it a professional circle */
+    margin-bottom: 10px;
+  }
+
+  /* 3. Force the layout to stack vertically */
+  .main-content {
+    padding: 1rem !important;
+    word-wrap: break-word;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+
+  /* 4. Fix buttons (CV/Research) so they aren't tiny or weirdly split */
+  .btn {
+    display: block !important;
+    width: 100% !important;
+    margin-bottom: 10px !important;
+    padding: 0.75rem !important;
+  }
+}
