@@ -5,7 +5,7 @@ title: Sushant Banjara
 <div class="split-container">
   
   <div class="profile-photo" style="float: left; width: 30%; padding-right: 20px;">
-    <img src="photos/github_photo.jpg" alt="Sushant Banjara">
+    <img src="photos/github_photo.JPG" alt="Sushant Banjara">
   </div>
 
   <div class="profile-text" style="float: left; width: 70%;">
