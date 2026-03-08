@@ -11,10 +11,8 @@ title: Sushant Banjara
 
   <div class="profile-text">
     Welcome! I am a PhD student at the University of Chicago. 
-    
-    ### [Curriculum Vitae](./cv.pdf)
   </div>
-
+  ### [Curriculum Vitae](./cv.pdf)
 </div>
 
 ---
