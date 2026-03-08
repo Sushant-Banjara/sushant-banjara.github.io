@@ -9,8 +9,8 @@ title: Sushant Banjara
 <div style="clear: both; display: block; height: 0; overflow: hidden;"></div>
 
 <div class="profile-text" style="float: left; width: 70%;">
-  # About Me
-  Text content here...
+  
+  Welcome! I am a PhD student at the University of Chicago.
 </div>
 
 
