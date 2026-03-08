@@ -9,7 +9,7 @@ title: Sushant Banjara
   </div>
 
   <div class="profile-text" style="float: left; width: 70%;">
-    # Welcome! 
+    Welcome! 
     I am a PhD student at the University of Chicago...
     [Insert rest of bio here]
   </div>
