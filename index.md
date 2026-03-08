@@ -3,7 +3,7 @@ layout: default
 title: Sushant Banjara
 ---
 
-<img src="assets/images/github_photo.JPG" class="profile-pic">
+<img src="photos/github_photo.JPG" class="profile-pic">
 
 Welcome!
 I am a PhD student at the University of Chicago.
