@@ -87,37 +87,39 @@ details[open] summary::before {
   padding-top: 1rem !important;
 }
 
-/* Target mobile phones specifically */
+/* This targets screens smaller than 640px (most iPhones/Androids) */
 @media screen and (max-width: 640px) {
-  
-  /* 1. Shrink the Hero Header height */
+
+  /* 1. Shrink the big colored header so it doesn't take up the whole screen */
   .page-header {
-    padding: 1.5rem 1rem !important; /* Reduces the massive top padding */
+    padding: 2rem 1rem !important;
     text-align: center;
   }
 
-  /* 2. Fix the Photo size (if your photo is in the header) */
-  .page-header img, header img {
-    max-width: 120px !important; /* Stops the photo from filling the screen */
-    height: auto;
-    border-radius: 50%; /* Makes it a professional circle */
-    margin-bottom: 10px;
+  /* 2. Target the photo specifically */
+  /* If your photo is in index.md, it's likely an <img> tag */
+  .main-content img {
+    display: block !important;
+    margin: 0 auto 20px auto !important; /* Centers it and adds space below */
+    max-width: 180px !important; /* Limits size so it doesn't fill the width */
+    height: auto !important;
+    border-radius: 8px; /* Optional: adds slightly rounded corners */
   }
 
-  /* 3. Force the layout to stack vertically */
+  /* 3. Remove the "Side-by-Side" feel */
   .main-content {
-    padding: 1rem !important;
-    word-wrap: break-word;
+    padding: 1.5rem !important;
     width: 100% !important;
     max-width: 100% !important;
     margin: 0 !important;
+    box-sizing: border-box;
   }
 
-  /* 4. Fix buttons (CV/Research) so they aren't tiny or weirdly split */
+  /* 4. Make buttons easier to tap with thumbs */
   .btn {
     display: block !important;
     width: 100% !important;
     margin-bottom: 10px !important;
-    padding: 0.75rem !important;
+    padding: 0.8rem !important;
   }
 }
