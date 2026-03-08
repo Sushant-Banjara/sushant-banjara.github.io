@@ -14,6 +14,6 @@ title: Remote Sensing Book
 This is the landing page for the Remote Sensing series.
 
 ## Chapters
-1. [Introduction to Sensors](./Books/Remote Sensing/chapter1.md)
+1. [Introduction to Sensors](./chapter1.md)
 2. [Image Processing in R](./chapter2.md)
 3. [Spatial Analysis](./chapter3.md)
