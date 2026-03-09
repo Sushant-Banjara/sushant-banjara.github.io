@@ -1,10 +1,10 @@
 # Chapter 1: Introduction
 
-## 1.1 Passive Sensors
+## Passive Sensors
 Text about passive sensors...
 
-## 1.2 Active Sensors
+## Active Sensors
 Text about active sensors...
 
-### 1.2.1 LiDAR
+### LiDAR
 Specifics on LiDAR...
