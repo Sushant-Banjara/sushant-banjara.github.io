@@ -3,7 +3,7 @@ layout: default
 title: Remote Sensing Book
 ---
 
-# Remote Sensing: A Comprehensive Guide
+# Remote Sensing and GIS for Economists
 
 * Table of Contents
 {:toc}
