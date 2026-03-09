@@ -99,3 +99,34 @@ details[open] summary::before {
   border-radius: 4px;
   line-height: 1.6;
 }
+
+/* 1. Initialize the counters on the main content area */
+.main-content {
+  counter-reset: h1counter;
+}
+
+/* 2. Number the H1 (Chapters) */
+.main-content h1 {
+  counter-reset: h2counter;
+  counter-increment: h1counter;
+}
+.main-content h1::before {
+  content: "Chapter " counter(h1counter) ": ";
+}
+
+/* 3. Number the H2 (Subsections e.g., 1.1) */
+.main-content h2 {
+  counter-reset: h3counter;
+  counter-increment: h2counter;
+}
+.main-content h2::before {
+  content: counter(h1counter) "." counter(h2counter) " ";
+}
+
+/* 4. Number the H3 (Sub-subsections e.g., 1.1.1) */
+.main-content h3 {
+  counter-increment: h3counter;
+}
+.main-content h3::before {
+  content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) " ";
+}
