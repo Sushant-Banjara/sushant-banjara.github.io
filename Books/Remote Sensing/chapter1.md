@@ -1,4 +1,4 @@
-# Chapter 1: Introduction
+# Introduction
 
 ## Passive Sensors
 Text about passive sensors...
