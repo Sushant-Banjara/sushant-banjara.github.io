@@ -2,7 +2,9 @@
 ---
 @import "{{ site.theme }}";
 
-/* 1. Header Styling (Universal) */
+/* ==========================================================================
+   1. HEADER & NAVIGATION
+   ========================================================================== */
 .page-header {
   padding: 1.2rem 1rem !important; 
   min-height: auto !important;
@@ -21,7 +23,6 @@
   margin-bottom: 0.4rem !important;
 }
 
-/* 2. Navigation Links */
 .nav-link, .nav-link:link, .nav-link:visited {
   color: #ffffff !important;
   font-weight: 800 !important;
@@ -31,44 +32,48 @@
   display: inline-block;
 }
 
-/* 3. Desktop Horizontal Split (Screens > 800px) */
+/* ==========================================================================
+   2. PROFILE LAYOUT (Desktop: Wrap | Mobile: Stacked)
+   ========================================================================== */
+/* Desktop Settings */
 @media screen and (min-width: 801px) {
-  .profile-container {
-    display: flex;
-    align-items: flex-start;
-    gap: 40px; /* Space between photo and text */
-  }
-  
   .profile-photo {
-    flex: 0 0 350px; /* Photo fixed width */
+    float: left;            /* This enables the text wrap */
+    width: 350px;           /* Your requested larger size */
+    margin-right: 30px;     /* Space between photo and wrapped text */
+    margin-bottom: 15px;
   }
   
-  .profile-text {
-    flex: 1; /* Text fills the rest */
+  .profile-container::after {
+    content: "";
+    display: table;
+    clear: both;            /* Prevents layout collapse */
   }
 }
 
-/* 4. Mobile Vertical Stack (Screens <= 800px) */
+/* Mobile Settings */
 @media screen and (max-width: 800px) {
-  .profile-container {
+  .profile-photo {
+    float: none;
     display: block;
+    margin: 0 auto 20px auto;
     text-align: center;
   }
-
+  
   .profile-photo img {
     max-width: 300px !important;
     height: auto !important;
-    margin: 0 auto 20px auto !important;
-    display: block !important;
   }
-
+  
   .profile-text {
     text-align: left;
     width: 100% !important;
   }
 }
 
-/* 5. Abstract & Toggle Styling */
+/* ==========================================================================
+   3. RESEARCH ABSTRACT TOGGLES
+   ========================================================================== */
 summary {
   list-style: none;
   display: flex;
@@ -77,9 +82,7 @@ summary {
   color: #155799 !important;
   cursor: pointer;
 }
-
 summary::-webkit-details-marker { display: none; }
-
 summary::before {
   content: '▶';
   display: inline-block;
@@ -87,47 +90,53 @@ summary::before {
   margin-right: 8px;
   transition: transform 0.2s ease;
 }
-
-details[open] summary::before {
-  transform: rotate(90deg);
-}
+details[open] summary::before { transform: rotate(90deg); }
 
 .abstract-box {
   margin-top: 10px;
   padding: 15px;
   background-color: #f9f9f9;
   border-radius: 4px;
-  line-height: 1.6;
 }
 
-/* 1. Initialize counters */
-.main-content {
+/* ==========================================================================
+   4. AUTOMATED BOOK NUMBERING (Only inside .book-mode)
+   ========================================================================== */
+.book-mode {
   counter-reset: h1counter;
 }
 
-/* 2. Number H1 (Chapters) - ONLY if they don't have the .no_toc class */
-.main-content h1:not(.no_toc) {
+.book-mode h1:not(.no_toc) {
   counter-increment: h1counter;
   counter-reset: h2counter;
 }
 
-.main-content h1:not(.no_toc)::before {
+.book-mode h1:not(.no_toc)::before {
   content: "Chapter " counter(h1counter) ": ";
+  color: #2e7d32;
 }
 
-/* 3. Subsections (Keep these as they were) */
-.main-content h2 {
-  counter-reset: h3counter;
+.book-mode h2 {
   counter-increment: h2counter;
+  counter-reset: h3counter;
 }
-.main-content h2::before {
+
+.book-mode h2::before {
   content: counter(h1counter) "." counter(h2counter) " ";
 }
 
-/* 4. Sub-subsections */
-.main-content h3 {
+.book-mode h3 {
   counter-increment: h3counter;
 }
-.main-content h3::before {
+
+.book-mode h3::before {
   content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) " ";
+}
+
+#markdown-toc, #markdown-toc li, #markdown-toc a {
+  counter-increment: none !important;
+}
+
+#markdown-toc::before, #markdown-toc li::before, #markdown-toc a::before {
+  content: none !important;
 }
