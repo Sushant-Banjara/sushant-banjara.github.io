@@ -9,6 +9,8 @@ title: Remote Sensing Book
 
 * Table of Contents
 {:toc}
+---
 
 {% include_relative chapter1.md %}
+
 </div>
