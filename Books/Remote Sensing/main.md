@@ -3,7 +3,7 @@ layout: default
 title: Remote Sensing Book
 ---
 
-<div class="book-mode">
+<div class="book-mode" markdown="1">
 
 # Remote Sensing and GIS for Economists
 {: .no_toc}
