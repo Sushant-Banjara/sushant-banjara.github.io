@@ -2,7 +2,7 @@
 layout: default
 title: Remote Sensing Book
 ---
-
+<div class="book-mode">
 # Remote Sensing and GIS for Economists
 {: .no_toc}
 
@@ -10,3 +10,4 @@ title: Remote Sensing Book
 {:toc}
 
 {% include_relative chapter1.md %}
+</div>
