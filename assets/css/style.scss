@@ -100,21 +100,22 @@ details[open] summary::before {
   line-height: 1.6;
 }
 
-/* 1. Initialize the counters on the main content area */
+/* 1. Initialize counters */
 .main-content {
   counter-reset: h1counter;
 }
 
-/* 2. Number the H1 (Chapters) */
-.main-content h1 {
-  counter-reset: h2counter;
+/* 2. Number H1 (Chapters) - ONLY if they don't have the .no_toc class */
+.main-content h1:not(.no_toc) {
   counter-increment: h1counter;
+  counter-reset: h2counter;
 }
-.main-content h1::before {
+
+.main-content h1:not(.no_toc)::before {
   content: "Chapter " counter(h1counter) ": ";
 }
 
-/* 3. Number the H2 (Subsections e.g., 1.1) */
+/* 3. Subsections (Keep these as they were) */
 .main-content h2 {
   counter-reset: h3counter;
   counter-increment: h2counter;
@@ -123,7 +124,7 @@ details[open] summary::before {
   content: counter(h1counter) "." counter(h2counter) " ";
 }
 
-/* 4. Number the H3 (Sub-subsections e.g., 1.1.1) */
+/* 4. Sub-subsections */
 .main-content h3 {
   counter-increment: h3counter;
 }
