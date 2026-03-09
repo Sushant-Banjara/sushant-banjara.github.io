@@ -2,10 +2,6 @@
 layout: default
 title: Sushant Banjara
 ---
----
-layout: default
-title: Sushant Banjara
----
 
 <div class="profile-container">
 
@@ -14,10 +10,8 @@ title: Sushant Banjara
   </div>
 
   Welcome! I am a PhD student at the University of Chicago. My research focuses on... (Write your full bio here, and it will wrap around the photo on your computer screen).
-
-  ### [Curriculum Vitae](./cv.pdf)
-
+  
 </div>
-
+### [Curriculum Vitae](./cv.pdf)
 ---
 #### [Research](./research) | [Teaching](./Books/Remote Sensing/main) | [Contact](#)
