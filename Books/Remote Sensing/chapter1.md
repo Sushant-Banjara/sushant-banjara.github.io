@@ -1,4 +1,4 @@
-# Chapter 1: Introduction to Sensors
+# Chapter 1: Introduction
 
 * Contents
 {:toc}
