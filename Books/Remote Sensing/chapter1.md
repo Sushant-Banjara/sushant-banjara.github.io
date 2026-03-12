@@ -1,10 +1,12 @@
 # Introduction
 
-## Passive Sensors
-Text about passive sensors...
+In 2021, when I was applying for PhD programmes, I highlighted my remote sensing training in my personal statement. I argued that it would allow me to conduct empirical research in regions where conventional data sources are scarce. While economics papers using satellite imagery had already existed for quite some time back then, they were few and far between. As a result, I felt confident that this skill would give me an edge in the application process. <br> <br>
 
-## Active Sensors
-Text about active sensors...
+Five years later, as I write this book, I am no longer so sure. The use of remotely sensed data in economics has come a long way since 2021. Not only are there far more papers using remote sensing as a primary data source, but many economists, particularly in climate economics, now regularly produce new data products as part of their research. Yet, remote sensing as a data source remains heavily underexplored in economics. Furthermore, even when these datasets are utilised, researchers often treat them as just another data source, rarely concerning themselves with how the data were actually constructed. <br> <br>
 
-### LiDAR
-Specifics on LiDAR...
+I am, therefore, writing this book to provide economists and other social scientists with a systematic introduction to remote sensing and GIS. As this is a book for social scientists rather than remote sensing specialists, it will not dwell on the nitty-gritty technical details of the sensing process. Instead, it will focus on the tools, techniques, and conventions used when working with satellite images and derived data. However, in Chapter 2, I provide a high-level yet thorough discussion of the physics and engineering behind remote sensing. You may start with Chapter 3 if you wish to dive headlong into tools and techniques, but if time permits, I urge you to spend time on Chapter 2 so that:
+
+* You understand the physical constraints of the data, such as why certain atmospheric conditions or sensor angles might bias your results.
+* You can critically evaluate the quality of derived data products and understand its limitations before incorporating them into your analysis.
+* You understand the entire data construction pipeline and can begin to think about constructing data products that fit your research needs rather than solely relying on datasets produced by others.
+
