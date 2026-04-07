@@ -142,3 +142,22 @@ details[open] summary::before { transform: rotate(90deg); }
 #markdown-toc::before, #markdown-toc li::before, #markdown-toc a::before {
   content: none !important;
 }
+
+/*=========================================================================
+   5. Footnote
+============================================================================*/
+/* Target the footnote section created by the Markdown processor */
+.footnotes {
+  font-size: 0.75rem; /* Makes text about 85% of the standard size */
+  color: #555;        /* Softens the black to a dark grey */
+  line-height: 1.4;   /* Improves readability for small text */
+}
+
+/* Optional: Add a horizontal rule above the footnotes if the theme lacks one */
+.footnotes::before {
+  content: "";
+  display: block;
+  width: 100px;
+  border-top: 1px solid #ccc;
+  margin: 2em 0 1em;
+}
