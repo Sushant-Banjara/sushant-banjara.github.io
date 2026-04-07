@@ -15,4 +15,8 @@ title: Remote Sensing Book
 
 {% include_relative chapter1.md %}
 
+---
+
+{% include_relative chapter2.md %}
+
 </div>
