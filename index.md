@@ -9,7 +9,7 @@ title: Sushant Banjara
     <img src="photos/github_photo.JPG" alt="Sushant Banjara">
   </div>
 
-  Welcome! I am a PhD student at the University of Chicago, Harris School of Public Policy. I use applied microeconomics to study topics in environmental economics, political economy, and the intersection between the two. <br> <br>
+  Welcome! I am a PhD candidate at the University of Chicago, Harris School of Public Policy. I use applied microeconomics to study topics in environmental economics, political economy, and the intersection between the two. <br> <br>
   
   In environmental economics, my research focuses on understanding the value of biodiversity and the efficacy of conservation policies; in political economy, I study the state's role in violence against its citizens; and at the intersection of the two fields, I study the political interactions between the winners and losers of land-use decisions and natural resource extraction. <br> <br>
   
