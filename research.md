@@ -20,10 +20,10 @@ title: Research
   </details>
 
 * **On Strategic Civilian Targeting in Civil War** (*With Gina Eckhoff*) <br>
-<details>
-    <summary>
-      <span>View Abstract</span>
-       <span class="sep">|</span>
+    <details>
+        <summary>
+          <span>View Abstract</span>
+           <span class="sep">|</span>
      <!-- <a href="./files/paper1.pdf" class="download-link">Download PDF</a> -->
     </summary>
     <div class="abstract-box">
