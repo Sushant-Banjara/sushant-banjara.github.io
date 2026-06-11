@@ -45,7 +45,7 @@ title: Research
 
 ---
 
-## Pre-PhD Publication
+## Pre-PhD Publications
 * **Earthquake chemical precursors in groundwater: a review** (*With Shukra Raj Paudel, Amrita Wagle, and Friedemann T. Freund*)
 *Journal of Seismology*
 
