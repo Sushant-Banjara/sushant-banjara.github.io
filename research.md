@@ -28,7 +28,7 @@ title: Research
      <!-- <a href="./files/paper1.pdf" class="download-link">Download PDF</a> -->
     </summary>
     <div class="abstract-box">
-      Under what conditions does the state adopt more violent strategies during civil war, and where is it more likely to happen? In this paper, we study state violence against civilians during the Nepalese civil war (1996-2006), and show that the state is more likely to victimize civilians in areas that are more remote from developed infrastructure and the state’s pres- ence. We use the unexpected death of the Nepalese monarch and the subsequent accession of a more violence-prone king as an exogenous shock to the timing of military deployments. We find that remote villages face an eight-fold increase in violence against civilians in the first years after the event, compared to non-remote villages. We connect our findings to a tradeoff between precise identification of insurgent targets versus higher violence at the loss of more civilian lives, where the costs and benefits of each strategy vary across locations with different degrees of remoteness. Our findings have implications for what conditions may discipline state forces to behave better when faced with the opportunity to misuse power
+      Under what conditions does the state adopt more violent strategies during civil war, and where is it more likely to happen? In this paper, we study state violence against civilians during the Nepalese civil war (1996-2006), and show that the state is more likely to victimize civilians in areas that are more remote from developed infrastructure and the state’s presence. We use the unexpected death of the Nepalese monarch and the subsequent accession of a more violence-prone king as an exogenous shock to the timing of military deployments. We find that remote villages face an eight-fold increase in violence against civilians in the first years after the event, compared to non-remote villages. We connect our findings to a tradeoff between precise identification of insurgent targets versus higher violence at the loss of more civilian lives, where the costs and benefits of each strategy vary across locations with different degrees of remoteness. Our findings have implications for what conditions may discipline state forces to behave better when faced with the opportunity to misuse power
     </div>
   </details>
   
@@ -42,3 +42,10 @@ title: Research
 * **The Economic Costs of Climate Change From Ecosystem Disruptions: Evidence From Forest Defoliation Outbreaks in the United States** (*With Eyal Frank, Greg Dwyer, and Andrew M. Liebhold*) <br>
 
 * **When Do Incentives for Preemptive Action Erode Gains from Policy? Studying the Effectiveness of the Endangered Species Act** (*With Eyal Frank and Anouch Missirian*) <br>
+
+---
+
+## Pre-PhD Publication
+* **Earthquake chemical precursors in groundwater: a review** (*With Shukra Raj Paudel, Amrita Wagle, and Friedemann T. Freund*)
+* **Pretreatment of agricultural biomass for anaerobic digestion: Current state and challenges** (*With Shukra Raj Paudel, Oh Kyung Choi, Ki Young Park, Young Mo Kim, and Jae Woo Lee*)
+
