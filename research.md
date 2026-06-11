@@ -46,9 +46,9 @@ title: Research
 ---
 
 ## Pre-PhD Publications
-* **Earthquake chemical precursors in groundwater: a review** (*With Shukra Raj Paudel, Amrita Wagle, and Friedemann T. Freund*)
+* **Earthquake chemical precursors in groundwater: a review** (*With Shukra Raj Paudel, Amrita Wagle, and Friedemann T. Freund*) <br>
 *Journal of Seismology*
 
-* **Pretreatment of agricultural biomass for anaerobic digestion: Current state and challenges** (*With Shukra Raj Paudel, Oh Kyung Choi, Ki Young Park, Young Mo Kim, and Jae Woo Lee*)
+* **Pretreatment of agricultural biomass for anaerobic digestion: Current state and challenges** (*With Shukra Raj Paudel, Oh Kyung Choi, Ki Young Park, Young Mo Kim, and Jae Woo Lee*) <br>
 *Bioresource Technology*
 
