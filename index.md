@@ -10,10 +10,6 @@ title: Sushant Banjara
     <a href="./cv.pdf">CV</a>
     &nbsp;|&nbsp;
     <a href="mailto:sbanjara@uchicago.edu">Email</a>
-    &nbsp;|&nbsp;
-    <a href="https://scholar.google.com/citations?user=YOUR_ID_HERE" target="_blank">Google Scholar</a>
-    &nbsp;|&nbsp;
-    <a href="https://github.com/sbanjara" target="_blank">GitHub</a>
   </div>
 </div>
 
