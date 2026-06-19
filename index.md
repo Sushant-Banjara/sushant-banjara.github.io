@@ -7,7 +7,7 @@ title: Sushant Banjara
   <img src="photos/github_photo.JPG" alt="Sushant Banjara">
 
   <div class="contact-info">
-    <a href="mailto:sbanjara@uchicago.edu">sbanjara@uchicago.edu</a><br>
+    Email: <a href="mailto:sbanjara@uchicago.edu">Email: sbanjara@uchicago.edu</a><br>
     <a href="./cv.pdf">Curriculum Vitae</a>
   </div>
   </div>
