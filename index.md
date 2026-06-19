@@ -7,10 +7,13 @@ title: Sushant Banjara
   <img src="photos/github_photo.JPG" alt="Sushant Banjara">
 
   <div class="contact-info">
-    Email: <a href="mailto:sbanjara@uchicago.edu">Email: sbanjara@uchicago.edu</a><br>
-    <a href="./cv.pdf">Curriculum Vitae</a>
+    <a href="./cv.pdf">CV</a>
+    &nbsp;|&nbsp;
+    <a href="mailto:sbanjara@uchicago.edu">sbanjara@uchicago.edu</a>
+    &nbsp;|&nbsp;
+    <a href="https://github.com/sbanjara" target="_blank">GitHub</a>
   </div>
-  </div>
+</div>
 
   Welcome! I am a PhD candidate at the University of Chicago, Harris School of Public Policy. I use applied microeconomics to study topics in environmental economics, political economy, and the intersection between the two. <br> <br>
   
