@@ -5,6 +5,6 @@
 * Statistics for Data Analysis, **Head TA** (*2022, 2023, 2024*)
 * Data and Programming for Public Policy I - R, **Head TA** (*2023*)
 
-## Undergraduate Courses (Yale University, School of Engineering and Applied Science)
+## Undergraduate courses (Yale University, School of Engineering and Applied Science)
 * Intro to Computing for Scientists and Engineers in C++, **TA** (*2018*)
 * Ordinary and Partial Differential Equation, **TA** (*2018*)
