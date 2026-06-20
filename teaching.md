@@ -10,4 +10,4 @@
 * Intro to Computing for Scientists and Engineers in C++, **TA** (*2018*)
 * Ordinary and Partial Differential Equation, **TA** (*2018*)
 
-[^headTA]: Managed all TA activities for a class of over 400 students and over 15 teams of TAs. Responsibilities included assigning responsibilities to TAs, scheduling office hours for all TAs, and holding weekly meetings with the TA team.
+[^headTA]: Managed all TA activities for a class of over 400 students and a team of over 15 TAs. Responsibilities included assigning responsibilities to TAs, scheduling office hours for all TAs, and holding weekly meetings with the TA team.
