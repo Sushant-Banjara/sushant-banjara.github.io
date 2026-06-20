@@ -1,1 +1,6 @@
-
+## Master's level courses (University of Chicago)
+* Instructor for Coding Camp (*Summer 2026*)
+* TA for Methods of Data Collection: Experiments and Surveys (*Winter 2026, Winter 2024*)
+* Instructor for Math Camp (*Summer 2025*)
+* Head TA for Statistics for Data Analysis (*Fall 2022, Fall 2023, Fall 2024*)
+* Head TA for Data and Programming for Public Policy I - R (*Spring 2023*)
