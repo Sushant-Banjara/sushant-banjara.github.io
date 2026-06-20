@@ -1,5 +1,5 @@
 # Teaching Experience
-## Master's level (UChicago, Harris School of Public Policy)
+## Master's level (Uchicago Harris School of Public Policy)
 * Coding Camp, **Instructor** (*2026*)
 * Methods of Data Collection: Experiments and Surveys, **TA** (*2026, 2024*)
 * Math Camp, **Instructor** (*2025*)
