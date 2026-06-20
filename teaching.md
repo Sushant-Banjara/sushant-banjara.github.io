@@ -1,10 +1,10 @@
-## Master's level (University of Chicago, Harris School of Public Policy)
+## Master's level (UChicago, Harris School of Public Policy)
 * Coding Camp, **Instructor** (*2026*)
 * Methods of Data Collection: Experiments and Surveys, **TA** (*2026, 2024*)
 * Math Camp, **Instructor** (*2025*)
 * Statistics for Data Analysis, **Head TA** (*2022, 2023, 2024*)
 * Data and Programming for Public Policy I - R, **Head TA** (*2023*)
 
-## Undergraduate level (Yale University, Engineering and Applied Science)
+## Undergraduate level (Yale Engineering and Applied Science)
 * Intro to Computing for Scientists and Engineers in C++, **TA** (*2018*)
 * Ordinary and Partial Differential Equation, **TA** (*2018*)
