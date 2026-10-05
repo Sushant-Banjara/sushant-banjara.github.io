@@ -22,10 +22,11 @@ title: Sushant Banjara
   
   I have a bachelor's degree in civil engineering from the Institute of Engineering, Pulchowk Campus, and a master's degree in environmental science with a focus on remote sensing from the Yale School of the Environment. My research typically involves constructing and analysing large spatial datasets. 
 
+<!--- Email at the bottom --->
 <div style="clear: both;"></div>
 
 <hr style="margin-top: 2rem;">
 
-<p style="font-size: 0.85rem; color: #666; text-align: center;">
-  sbanjara (at) uchicago.edu
+<p style="font-size: 0.85rem; color: #666;">
+  <strong>Email:</strong> sbanjara@uchicago.edu
 </p>
