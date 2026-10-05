@@ -27,6 +27,6 @@ title: Sushant Banjara
 
 <hr style="margin-top: 2rem;">
 
-<p style="font-size: 0.85rem; color: #666;">
+<p style="font-size: 1.5rem; color: #666;">
   <strong>Email:</strong> sbanjara@uchicago.edu
 </p>
