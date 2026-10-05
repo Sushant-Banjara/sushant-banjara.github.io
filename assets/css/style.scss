@@ -23,7 +23,9 @@
   margin-bottom: 0.4rem !important;
 }
 
-.nav-link, .nav-link:link, .nav-link:visited {
+.nav-link,
+.nav-link:link,
+.nav-link:visited {
   color: #ffffff !important;
   font-weight: 800 !important;
   text-decoration: none !important;
@@ -32,17 +34,40 @@
   display: inline-block;
 }
 
+
 /* ==========================================================================
    2. PROFILE LAYOUT (Desktop: Wrap | Mobile: Stacked)
    ========================================================================== */
+
+/* ---------- Desktop ---------- */
 @media screen and (min-width: 801px) {
+
   .profile-photo {
     float: left;
     width: 350px;
     margin-right: 30px;
     margin-bottom: 15px;
   }
-  
+
+  .profile-photo img {
+    display: block;
+    width: 350px;
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* CV | Email | Google Scholar */
+  .contact-info {
+    width: 350px;
+    text-align: center;
+    margin-top: 10px;
+    white-space: nowrap;
+  }
+
+  .contact-info a {
+    font-weight: 700;
+  }
+
   .profile-container::after {
     content: "";
     display: table;
@@ -50,28 +75,49 @@
   }
 }
 
+
+/* ---------- Mobile ---------- */
 @media screen and (max-width: 800px) {
+
   .profile-photo {
     float: none;
     display: block;
     margin: 0 auto 20px auto;
     text-align: center;
   }
-  
+
   .profile-photo img {
+    display: block;
     max-width: 300px !important;
+    width: 100%;
     height: auto !important;
+    margin: 0 auto;
   }
-  
+
+  /* CV | Email | Google Scholar */
+  .contact-info {
+    max-width: 300px;
+    width: 100%;
+    margin: 10px auto 0 auto;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .contact-info a {
+    font-weight: 700;
+  }
+
   .profile-text {
     text-align: left;
     width: 100% !important;
   }
 }
 
+
 /* ==========================================================================
    3. RESEARCH ABSTRACT TOGGLES
    ========================================================================== */
+
 summary {
   list-style: none;
   display: flex;
@@ -80,7 +126,11 @@ summary {
   color: #155799 !important;
   cursor: pointer;
 }
-summary::-webkit-details-marker { display: none; }
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
 summary::before {
   content: '▶';
   display: inline-block;
@@ -88,7 +138,10 @@ summary::before {
   margin-right: 8px;
   transition: transform 0.2s ease;
 }
-details[open] summary::before { transform: rotate(90deg); }
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
 
 .abstract-box {
   margin-top: 10px;
@@ -97,9 +150,11 @@ details[open] summary::before { transform: rotate(90deg); }
   border-radius: 4px;
 }
 
+
 /* ==========================================================================
    4. AUTOMATED BOOK NUMBERING (Scoped to .book-mode)
    ========================================================================== */
+
 .book-mode {
   counter-reset: h1counter;
 }
@@ -112,7 +167,7 @@ details[open] summary::before { transform: rotate(90deg); }
 
 .book-mode h1:not(.no_toc)::before {
   content: "Chapter " counter(h1counter) ": ";
-  color: #2e7d32; /* Matches the green theme */
+  color: #2e7d32;
 }
 
 /* Section Numbering (H2 - e.g., 1.1) */
@@ -135,22 +190,28 @@ details[open] summary::before { transform: rotate(90deg); }
 }
 
 /* Clean up Table of Contents list items */
-#markdown-toc, #markdown-toc li, #markdown-toc a {
+#markdown-toc,
+#markdown-toc li,
+#markdown-toc a {
   counter-increment: none !important;
 }
 
-#markdown-toc::before, #markdown-toc li::before, #markdown-toc a::before {
+#markdown-toc::before,
+#markdown-toc li::before,
+#markdown-toc a::before {
   content: none !important;
 }
 
-/*=========================================================================
-   5. Footnote
-============================================================================*/
+
+/* ==========================================================================
+   5. FOOTNOTE
+   ========================================================================== */
+
 /* Target the footnote section created by the Markdown processor */
 .footnotes {
-  font-size: 0.75rem; /* Makes text about 85% of the standard size */
-  color: #555;        /* Softens the black to a dark grey */
-  line-height: 1.4;   /* Improves readability for small text */
+  font-size: 0.75rem;
+  color: #555;
+  line-height: 1.4;
 }
 
 /* Optional: Add a horizontal rule above the footnotes if the theme lacks one
