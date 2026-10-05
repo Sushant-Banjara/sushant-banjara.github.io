@@ -43,6 +43,8 @@ title: Research
 
 * **When Do Incentives for Preemptive Action Erode Gains from Policy? Studying the Effectiveness of the Endangered Species Act** (*With Eyal Frank and Anouch Missirian*) <br>
 
+* **The Politics Machine: Data Centers and Grassroots Political Actions in the US** (*With Prabidhik KC*) <br>
+
 ---
 
 ## Pre-PhD Publications
