@@ -5,6 +5,21 @@ title: Research
 
 # Research
 
+## Job Market Paper
+* **The Human Cost of Conservation: Evidence from Protected Areas in Africa** (*Draft available soon*) <br>
+    **Presented at:** CU Environmental & Resource Economics Workshop
+  <details>
+    <summary>
+      <span>View Abstract</span>
+      <span class="sep">|</span>
+     <!-- <a href="./files/paper1.pdf" class="download-link">Download PDF</a> -->
+    </summary>
+    <div class="abstract-box">
+      As human-driven biodiversity decline reaches an unprecedented rate worldwide, a global consensus has emerged around expanding protected areas (PAs), such as national parks and animal sanctuaries, as a key strategy to slow biodiversity loss. The latest initiative under this consensus, the 30-by-30 Target, aims to place 30% of the world's land under legal protection by 2030. While PAs can conserve biodiversity, they may also restrict human access to land and natural resources. Such restrictions can generate local grievances and fuel conflict, particularly where states lack the capacity or willingness to address the local concerns.
+In this paper, I combine a comprehensive database of PA maps with georeferenced conflict data and show that PA designation increases conflict where state authority is more likely to be contested. Using an event-study design, I show that PA designation increases the probability of conflict by as much as ~130% in borderlands, where state authority tends to be limited. The increase is driven primarily by conflict involving the state or actors with an explicit anti-state agenda. Consistent with the proposed mechanism, I find no increase in conflict probability following designation among PAs that are community-governed or plausibly generate local economic benefits through safari tourism. Finally, despite the increase in conflict, I find no meaningful effect of PA designation on environmental outcomes in either direction. Taken together, these findings highlight the importance of accounting for local political constraints and incentives when expanding PAs in low-capacity states, both to maximize conservation benefits and to avoid severe  unintended consequences.
+    </div>
+  </details>
+
 ## Working Papers
 * **Environmental Degradation in One’s Own Backyard: Who Gains and Who Loses from Sand Mining in India** (*With Claire Fan and Varun K*) <br>
      **Presented at:** LSE Environment Camp, IPWSD (Columbia), MWIEDC
