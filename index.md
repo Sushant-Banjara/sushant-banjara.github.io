@@ -6,7 +6,7 @@ title: Sushant Banjara
 <div class="profile-photo">
   <img src="photos/github_photo.JPG" alt="Sushant Banjara">
 
-  <div class="contact-info">
+  <div class="contact-info" style="text-align: center;">
     <div>
       <strong>Email:</strong> sbanjara [at] uchicago [dot] edu
     </div>
