@@ -11,7 +11,7 @@ title: Research
   <details>
     <summary>
       <span>View Abstract</span>
-      <span class="sep">|</span>
+      <!--<span class="sep">|</span>-->
      <!-- <a href="./files/paper1.pdf" class="download-link">Download PDF</a> -->
     </summary>
     <div class="abstract-box">
@@ -25,7 +25,7 @@ title: Research
   <details>
     <summary>
       <span>View Abstract</span>
-      <span class="sep">|</span>
+      <!--<span class="sep">|</span>-->
      <!-- <a href="./files/paper1.pdf" class="download-link">Download PDF</a> -->
     </summary>
     <div class="abstract-box">
@@ -38,7 +38,7 @@ title: Research
     <details>
         <summary>
           <span>View Abstract</span>
-           <span class="sep">|</span>
+          <!--<span class="sep">|</span>-->
      <!-- <a href="./files/paper1.pdf" class="download-link">Download PDF</a> -->
     </summary>
     <div class="abstract-box">
