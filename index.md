@@ -7,12 +7,15 @@ title: Sushant Banjara
   <img src="photos/github_photo.JPG" alt="Sushant Banjara">
 
   <div class="contact-info">
-    <a href="./PDF/banjara_cv.pdf" target="_blank" rel="noopener noreferrer">CV</a>
-    &nbsp;|&nbsp;
-    <a href="mailto:sbanjara@uchicago.edu" target="_blank" rel="noopener noreferrer">Email</a>
-    &nbsp;|&nbsp;
-    <a href="https://scholar.google.com/citations?user=oSvWJAgAAAAJ&hl=en&inst=5778974199078678248"
-       target="_blank" rel="noopener noreferrer">Google Scholar</a>
+    <div>
+      <strong>Email:</strong> sbanjara [at] uchicago [dot] edu
+    </div>
+    <div>
+      <a href="./PDF/banjara_cv.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+      &nbsp;|&nbsp;
+      <a href="https://scholar.google.com/citations?user=oSvWJAgAAAAJ&hl=en&inst=5778974199078678248"
+         target="_blank" rel="noopener noreferrer">Google Scholar</a>
+    </div>
   </div>
 </div>
 
