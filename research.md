@@ -11,8 +11,8 @@ title: Research
   <details>
     <summary>
       <span>View Abstract</span>
-       <span class="sep">|</span>
-        <span> Draft available soon </span>
+      <span class="sep">|</span>
+      <span> Draft available soon </span>
      <!-- <a href="./files/paper1.pdf" class="download-link">Download PDF</a> -->
     </summary>
     <div class="abstract-box">
