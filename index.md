@@ -8,7 +8,7 @@ title: Sushant Banjara
 
   <div class="contact-info" style="text-align: center;">
     <div>
-      <u><strong>Email:</strong> sbanjara [at] uchicago [dot] edu</u>
+      <u><strong>Email:</strong> sbanjara (at) uchicago (dot) edu</u>
     </div>
   </div>
 </div>
