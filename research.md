@@ -6,7 +6,7 @@ title: Research
 # Research
 
 ## Job Market Paper
-* **The Human Cost of Conservation: Evidence from Protected Areas in Africa** (*Draft available soon*) <br>
+* **The Human Cost of Conservation: Evidence from Protected Areas in Africa** (*Draft coming soon*) <br>
     **Presented at:** CU Environmental & Resource Economics Workshop
   <details>
     <summary>
