@@ -53,7 +53,7 @@ title: Research
     </div>
   </details>
 
-* **The Politics Machine: Data Centers and Grassroots Political Actions in the US** (*With Prabidhik KC*) <br>
+* **The Politics Machine: Data Centers and Grassroots Political Movements in the US** (*With Prabidhik KC*) <br>
    <details>
         <summary>
           <span>Abstract</span>
