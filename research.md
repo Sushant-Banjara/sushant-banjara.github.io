@@ -11,7 +11,6 @@ title: Research
   <details>
     <summary>
       <span>Abstract</span>
-
      <a href="./PDF/banjara_jmp.pdf"
       class="download-link"
       target="_blank"
@@ -31,13 +30,11 @@ title: Research
   <details>
     <summary>
       <span>Abstract</span>
-
       <a href="./PDF/banjara_sand_mining.pdf"
       class="download-link"
       target="_blank"
       rel="noopener noreferrer"
       style="margin-left: 1em;">PDF</a>
-  
     </summary>
     <div class="abstract-box">
       Why does environmentally damaging extraction persist despite imposing substantial costs on nearby communities? We examine this question through a study of sand mining in India, analyzing its environmental and economic consequences, the distribution of gains and losses, and the role of political influence in sustaining extraction. Comparing changes near mines after extraction begins with those at other locations suitable for mining, we find substantial environmental damage alongside local economic expansion. Near mines, the share of land inundated during the monsoon increases by 25%, and satellite-measured vegetation declines by 2.8%, while nighttime light intensity rises by 12%. Asset gains are concentrated among politically dominant groups—Upper-caste and Other Backward Class households—with no corresponding increase among less dominant groups. A survey of more than 8,000 households across 214 mining and nearby non-mining villages reveals that only 9.0% of households in mining villages earn income from mining, with the top 1% receiving 53.8% of total mining income. Compensation for environmental damage is rare, and measured mining profits cover valued environmental losses in only 25 of 126 villages with current or past mining. We develop a model in which larger household gains strengthen support for extraction, while larger losses strengthen opposition. Giving households that earn income from mining greater influence over decisions can sustain extraction in up to 76 villages, including those where aggregate local losses exceed gains. Our findings highlight a political-economy mechanism through which concentrated economic benefits can sustain extraction despite widespread, uncompensated environmental damage.
