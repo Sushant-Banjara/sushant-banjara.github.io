@@ -41,6 +41,16 @@ title: Research
     </div>
   </details>
 
+* **The Economic Costs of Climate Change From Ecosystem Disruptions: Evidence From Forest Defoliation Outbreaks in the United States** (*With Eyal Frank, Greg Dwyer, and Andrew M. Liebhold*) <br>
+<details style="margin-bottom: 1em;">
+        <summary>
+          <span>Abstract</span>    
+    </summary>
+    <div class="abstract-box">
+      Climate change will affect human well-being not only through direct impacts, but also through changes in ecosystem functioning that alter the flow of local amenities and disamenities. We study one such climate–ecosystem–well-being chain in U.S. forests, focusing on the weather-dependent interaction between an invasive defoliator, the spongy moth, and a fungal pathogen that normally suppresses it. Using fine-scaled defoliation maps, gridded weather, and a long-run panel of spongy moth presence, we show that warm winters and warm, dry springs—especially when they persist over multiple years—substantially increase the likelihood and spatial extent of defoliation outbreaks. We then link these ecological shocks to nearly five decades of geocoded housing transactions and estimate that exposure to defoliation lowers nearby sale prices by at least two percent, with cumulative losses of up to about six percent for properties exposed in several consecutive years. Negative price effects remain detectable for homes located up to six kilometers from defoliated areas and are roughly twice as large when defoliation is a new shock in the local housing market. The stakes of this mechanism will grow over time, as the spongy moth currently occupies only about one-third of its climatically suitable habitat and is projected to expand into many more forests and communities. Unlike direct weather–well-being channels, this class of weather–ecosystem–well-being impacts offers additional scope for mitigation and adaptation, because managers can intervene to stabilize natural enemy interactions or to substitute for declines in ecosystem functioning. Our findings show that climate-driven disruptions to natural enemy interactions can generate sizable, spatially diffuse losses in housing wealth and highlight ecosystem management as a distinct margin for climate adaptation.
+    </div>
+  </details>
+
 
 * **On Strategic Civilian Targeting in Civil War** (*With Gina Eckhoff*) <br>
     <details style="margin-bottom: 1em;">
@@ -49,7 +59,7 @@ title: Research
           
     </summary>
     <div class="abstract-box">
-      Under what conditions does the state adopt more violent strategies during civil war, and where is it more likely to happen? In this paper, we study state violence against civilians during the Nepalese civil war (1996-2006), and show that the state is more likely to victimize civilians in areas that are more remote from developed infrastructure and the state’s presence. We use the unexpected death of the Nepalese monarch and the subsequent accession of a more violence-prone king as an exogenous shock to the timing of military deployments. We find that remote villages face an eight-fold increase in violence against civilians in the first years after the event, compared to non-remote villages. We connect our findings to a tradeoff between precise identification of insurgent targets versus higher violence at the loss of more civilian lives, where the costs and benefits of each strategy vary across locations with different degrees of remoteness. Our findings have implications for what conditions may discipline state forces to behave better when faced with the opportunity to misuse power
+      Under what conditions does the state adopt more violent strategies during civil war, and where is it more likely to happen? In this paper, we study state violence against civilians during the Nepalese civil war (1996-2006), and show that the state is more likely to victimize civilians in areas that are more remote from developed infrastructure and the state’s presence. We use the unexpected death of the Nepalese monarch and the subsequent accession of a more violence-prone king as an exogenous shock to the timing of military deployments. We find that remote villages face an eight-fold increase in violence against civilians in the first years after the event, compared to non-remote villages. We connect our findings to a tradeoff between precise identification of insurgent targets versus higher violence at the loss of more civilian lives, where the costs and benefits of each strategy vary across locations with different degrees of remoteness. Our findings have implications for what conditions may discipline state forces to behave better when faced with the opportunity to misuse power.
     </div>
   </details>
 
@@ -71,8 +81,6 @@ title: Research
 --- add publication when you have one. Add it before working papers-->
 
 ## Work in Progress
-* **The Economic Costs of Climate Change From Ecosystem Disruptions: Evidence From Forest Defoliation Outbreaks in the United States** (*With Eyal Frank, Greg Dwyer, and Andrew M. Liebhold*) <br>
-
 * **When Do Incentives for Preemptive Action Erode Gains from Policy? Studying the Effectiveness of the Endangered Species Act** (*With Eyal Frank and Anouch Missirian*) <br>
 
 ---
