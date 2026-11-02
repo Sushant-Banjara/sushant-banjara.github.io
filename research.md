@@ -6,17 +6,17 @@ title: Research
 # Research
 
 ## Job Market Paper
-* **The Human Cost of Conservation: Evidence from Protected Areas in Africa** (*Draft coming soon*) <br>
+* **The Human Cost of Conservation: Evidence from Protected Areas in Africa** <br>
     **Presented at:** CU Environmental & Resource Economics Workshop
   <details>
     <summary>
-      <span>View Abstract</span>
+      <span>Abstract</span>
 
   <a href="./PDF/banjara_jmp.pdf"
    class="download-link"
    target="_blank"
    rel="noopener noreferrer"
-   style="margin-left: 2em;">PDF</a>
+   style="margin-left: 1.5em;">PDF</a>
     </summary>
     <div class="abstract-box">
       In this paper, I use the global expansion of protected areas (PAs) in the twenty-first century as a setting to show how the local costs of globally beneficial environmental policies can generate severe unintended consequences in weak states. Focusing on Africa, I combine a comprehensive database of PA boundaries with georeferenced conflict data in a difference-in-differences framework and find that PA designation increases the probability of conflict in designated locations by 0.6 percentage points—a 50% increase relative to the baseline. I further find that this effect is concentrated primarily in borderlands, where state authority tends to be limited. Investigation into the mechanism yields multiple findings suggesting that conflict is driven by grievances against the state, where the state is the salient actor imposing costs on local populations through PA designation. First, I find no statistically significant effects in strong states, which can address or credibly commit to addressing local grievances arising from PA designation. Second, the results are driven by conflict events involving the state and actors with explicit anti-state agendas. No such effects are found for conflict involving other types of violent political actors. Third, I find no increase in the probability of conflict following designation among PAs that allow greater local autonomy in PA management through community governance or plausibly generate local economic benefits through safari tourism. Finally, despite the increase in conflict, I find no meaningful effect of PA designation on environmental outcomes in either direction. Taken together, these findings highlight the importance of accounting for local political constraints and incentives when expanding PAs in fragile states, both to maximize conservation benefits and to avoid severe unintended consequences.
