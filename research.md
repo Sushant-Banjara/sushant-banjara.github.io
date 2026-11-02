@@ -12,13 +12,13 @@ title: Research
     <summary>
       <span>Abstract</span>
 
-  <a href="./PDF/banjara_jmp.pdf"
-   class="download-link"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="margin-left: 1em;">PDF</a>
-    </summary>
-    <div class="abstract-box">
+     <a href="./PDF/banjara_jmp.pdf"
+      class="download-link"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="margin-left: 1em;">PDF</a>
+       </summary>
+       <div class="abstract-box">
       In this paper, I use the global expansion of protected areas (PAs) in the twenty-first century as a setting to show how the local costs of globally beneficial environmental policies can generate severe unintended consequences in weak states. Focusing on Africa, I combine a comprehensive database of PA boundaries with georeferenced conflict data in a difference-in-differences framework and find that PA designation increases the probability of conflict in designated locations by 0.6 percentage points—a 50% increase relative to the baseline. I further find that this effect is concentrated primarily in borderlands, where state authority tends to be limited. Investigation into the mechanism yields multiple findings suggesting that conflict is driven by grievances against the state, where the state is the salient actor imposing costs on local populations through PA designation. First, I find no statistically significant effects in strong states, which can address or credibly commit to addressing local grievances arising from PA designation. Second, the results are driven by conflict events involving the state and actors with explicit anti-state agendas. No such effects are found for conflict involving other types of violent political actors. Third, I find no increase in the probability of conflict following designation among PAs that allow greater local autonomy in PA management through community governance or plausibly generate local economic benefits through safari tourism. Finally, despite the increase in conflict, I find no meaningful effect of PA designation on environmental outcomes in either direction. Taken together, these findings highlight the importance of accounting for local political constraints and incentives when expanding PAs in fragile states, both to maximize conservation benefits and to avoid severe unintended consequences.
     </div>
   </details>
@@ -30,12 +30,17 @@ title: Research
      **Presented at:** LSE Environment Camp, IPWSD (Columbia), MWIEDC
   <details>
     <summary>
-      <span>View Abstract</span>
-      <!--<span class="sep">|</span>-->
-     <!-- <a href="./files/paper1.pdf" class="download-link">Download PDF</a> -->
+      <span>Abstract</span>
+
+      <a href="./PDF/banjara_sand_mining.pdf"
+      class="download-link"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="margin-left: 1em;">PDF</a>
+  
     </summary>
     <div class="abstract-box">
-      Sand, the backbone of modern construction, makes up 85% of global mineral extraction. Its large-scale removal—especially from fragile river       ecosystems—has raised serious environmental concerns, particularly in developing countries experiencing construction booms and lacking strong environmental regulation. Yet, the full extent of these effects, their social and economic consequences, and how they are distributed across communities remain poorly understood. This project combines novel administrative data with satellite imagery in a difference-in-differences framework to estimate the causal impacts of sand mining in Bihar, India. We find that sand mining increases flood inundation rates and flood frequency by 1.5 and 2 percentage points, respectively, from a baseline of 10%. Agricultural output, measured by vegetation index, declines by 5%. Despite these environmental costs, sand mining raises local income—proxied by nightlight intensity—by 10–20% in nearby villages. Income gains are broadly distributed within villages, reaching both wealthier and poorer households, but are concentrated among socially dominant groups, particularly upper castes and OBCs. These findings help explain why illegal sand mining continues with local support despite environmental harm and regulatory efforts. The unequal balance of economic benefits on social groups highlights the need for targeted policies—those that mitigate flooding, ensure sustainable mining, and compensate marginalized communities bearing the brunt of net harm. To characterize the mechanisms for heterogeneous effects of sand mining, we are now beginning a large-scale field survey.
+      Why does environmentally damaging extraction persist despite imposing substantial costs on nearby communities? We examine this question through a study of sand mining in India, analyzing its environmental and economic consequences, the distribution of gains and losses, and the role of political influence in sustaining extraction. Comparing changes near mines after extraction begins with those at other locations suitable for mining, we find substantial environmental damage alongside local economic expansion. Near mines, the share of land inundated during the monsoon increases by 25%, and satellite-measured vegetation declines by 2.8%, while nighttime light intensity rises by 12%. Asset gains are concentrated among politically dominant groups—Upper-caste and Other Backward Class households—with no corresponding increase among less dominant groups. A survey of more than 8,000 households across 214 mining and nearby non-mining villages reveals that only 9.0% of households in mining villages earn income from mining, with the top 1% receiving 53.8% of total mining income. Compensation for environmental damage is rare, and measured mining profits cover valued environmental losses in only 25 of 126 villages with current or past mining. We develop a model in which larger household gains strengthen support for extraction, while larger losses strengthen opposition. Giving households that earn income from mining greater influence over decisions can sustain extraction in up to 76 villages, including those where aggregate local losses exceed gains. Our findings highlight a political-economy mechanism through which concentrated economic benefits can sustain extraction despite widespread, uncompensated environmental damage.
     </div>
   </details>
 
