@@ -42,7 +42,7 @@ title: Research
   </details>
 
 * **The Economic Costs of Climate Change From Ecosystem Disruptions: Evidence From Forest Defoliation Outbreaks in the United States** (*With Eyal Frank, Greg Dwyer, and Andrew M. Liebhold*) <br>
-<details style="margin-bottom: 1em;">
+    <details style="margin-bottom: 1em;">
         <summary>
           <span>Abstract</span>    
     </summary>
