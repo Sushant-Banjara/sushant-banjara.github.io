@@ -43,7 +43,7 @@ title: Research
 
 
 * **On Strategic Civilian Targeting in Civil War** (*With Gina Eckhoff*) <br>
-    <details style="margin-bottom: 1em;>
+    <details style="margin-bottom: 1em;">
         <summary>
           <span>Abstract</span>
           
@@ -54,7 +54,7 @@ title: Research
   </details>
 
 * **The Politics Machine: Data Centers and Grassroots Political Movements in the US** (*With Prabidhik KC*) <br>
-   <details style="margin-bottom: 1em;>
+   <details style="margin-bottom: 1em;">
         <summary>
           <span>Abstract</span>
           
