@@ -27,7 +27,7 @@ title: Research
 ## Working Papers
 * **Environmental Degradation in One’s Own Backyard: Who Gains and Who Loses from Sand Mining in India** (*With Claire Fan, Varun K, and Katie Zhang*) <br>
      **Presented at:** LSE Environment Camp, IPWSD (Columbia), MWIEDC
-  <details style="margin-bottom: 1.5em;">
+  <details style="margin-bottom: 1em;">
     <summary>
       <span>Abstract</span>
       <a href="./PDF/banjara_sand_mining.pdf"
@@ -43,7 +43,7 @@ title: Research
 
 
 * **On Strategic Civilian Targeting in Civil War** (*With Gina Eckhoff*) <br>
-    <details>
+    <details style="margin-bottom: 1em;>
         <summary>
           <span>Abstract</span>
           
@@ -54,7 +54,7 @@ title: Research
   </details>
 
 * **The Politics Machine: Data Centers and Grassroots Political Movements in the US** (*With Prabidhik KC*) <br>
-   <details>
+   <details style="margin-bottom: 1em;>
         <summary>
           <span>Abstract</span>
           
