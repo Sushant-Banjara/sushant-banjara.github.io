@@ -27,7 +27,7 @@ title: Research
 ## Working Papers
 * **Environmental Degradation in One’s Own Backyard: Who Gains and Who Loses from Sand Mining in India** (*With Claire Fan, Varun K, and Katie Zhang*) <br>
      **Presented at:** LSE Environment Camp, IPWSD (Columbia), MWIEDC
-  <details>
+  <details style="margin-bottom: 1.5em;">
     <summary>
       <span>Abstract</span>
       <a href="./PDF/banjara_sand_mining.pdf"
