@@ -51,6 +51,17 @@ title: Research
     </div>
   </details>
 
+* **The Politics Machine: Data Centers and Grassroots Political Movements in the US** (*With Prabidhik KC*) <br>
+   <details style="margin-bottom: 1em;">
+        <summary>
+          <span>Abstract</span>
+          
+    </summary>
+    <div class="abstract-box">
+      Opposition to data center development is rising across the United States and has become a salient issue ahead of the upcoming midterm elections. Most accounts of this backlash attribute it to nonpolitical concerns, such as environmental impacts, rising energy prices, anti-AI sentiment, and outright NIMBYism. We instead argue that in addition to these concerns, opposition to data center development also reflects a broader political trend: declining public trust in government and large corporations. As public trust has fallen over the past two decades and reached historic lows, data center development has provided a focal issue around which previously diffuse and partisan grievances can coalesce, mobilizing grassroots opposition to governments, public officials, and large corporations. In this paper, we provide preliminary evidence consistent with this argument. First, we show that exposure to data center development increases the monthly probability of an all-cause protest in a county by as much as 10 percentage points. Using election data, we then provide suggestive evidence that congressional districts with greater exposure to data centers experience larger competition for candidacy in the electoral process and stronger anti-incumbent effects. We next lay out a range of analyses that we intend to conduct once data from the 2026 general election become available. Finally, we discuss the implications of our findings for business strategy and electoral politics in the United States. 
+    </div>
+  </details>
+
 
 * **On Strategic Civilian Targeting in Civil War** (*With Gina Eckhoff*) <br>
     <details style="margin-bottom: 1em;">
@@ -60,17 +71,6 @@ title: Research
     </summary>
     <div class="abstract-box">
       Under what conditions does the state adopt more violent strategies during civil war, and where is it more likely to happen? In this paper, we study state violence against civilians during the Nepalese civil war (1996-2006), and show that the state is more likely to victimize civilians in areas that are more remote from developed infrastructure and the state’s presence. We use the unexpected death of the Nepalese monarch and the subsequent accession of a more violence-prone king as an exogenous shock to the timing of military deployments. We find that remote villages face an eight-fold increase in violence against civilians in the first years after the event, compared to non-remote villages. We connect our findings to a tradeoff between precise identification of insurgent targets versus higher violence at the loss of more civilian lives, where the costs and benefits of each strategy vary across locations with different degrees of remoteness. Our findings have implications for what conditions may discipline state forces to behave better when faced with the opportunity to misuse power.
-    </div>
-  </details>
-
-* **The Politics Machine: Data Centers and Grassroots Political Movements in the US** (*With Prabidhik KC*) <br>
-   <details style="margin-bottom: 1em;">
-        <summary>
-          <span>Abstract</span>
-          
-    </summary>
-    <div class="abstract-box">
-      Opposition to data center development is rising across the United States and has become a salient issue ahead of the upcoming midterm elections. Most accounts of this backlash attribute it to nonpolitical concerns, such as environmental impacts, rising energy prices, anti-AI sentiment, and outright NIMBYism. We instead argue that in addition to these concerns, opposition to data center development also reflects a broader political trend: declining public trust in government and large corporations. As public trust has fallen over the past two decades and reached historic lows, data center development has provided a focal issue around which previously diffuse and partisan grievances can coalesce, mobilizing grassroots opposition to governments, public officials, and large corporations. In this paper, we provide preliminary evidence consistent with this argument. First, we show that exposure to data center development increases the monthly probability of an all-cause protest in a county by as much as 10 percentage points. Using election data, we then provide suggestive evidence that congressional districts with greater exposure to data centers experience larger competition for candidacy in the electoral process and stronger anti-incumbent effects. We next lay out a range of analyses that we intend to conduct once data from the 2026 general election become available. Finally, we discuss the implications of our findings for business strategy and electoral politics in the United States. 
     </div>
   </details>
   
