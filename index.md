@@ -13,9 +13,9 @@ title: Sushant Banjara
   </div>
 </div>
 
- Welcome! I am a PhD candidate at the University of Chicago's Harris School of Public Policy. I am an economist studying environmental economics, political economy, and the intersection of the two. My research typically involves working with large spatial datasets and applying tools from GIS, remote sensing, and machine learning.
+ Welcome! I am a PhD candidate at the University of Chicago's Harris School of Public Policy. My research interests are in environmental economics, political economy, and the intersection of the two. My research typically involves working with large spatial datasets and applying tools from GIS, remote sensing, and machine learning.
   
-  In environmental economics, my research focuses on understanding the value of biodiversity and the efficacy of conservation policies; in political economy, I study the state's role in violence against its citizens; and at the intersection of the two fields, I study the political interactions between the winners and losers of land-use decisions and natural resource extraction.
+  In environmental economics, my research focuses on understanding the value of biodiversity and evaluating the effectiveness of conservation policies. In political economy, I study the state's role in violence against its citizens. At the intersection of these fields, I examine how local political incentives shape the outcomes of environmental policies and land-use decisions. In my <a href="https://drive.google.com/file/d/1RLeUroKxJLglnhMelE2X1TEDaUKH7Cga/view?usp=sharing" target="_blank" rel="noopener noreferrer">Job Market Paper</a>, I study how the local costs imposed by protected areas (PAs) can lead to conflict.
   
   I have a bachelor's degree in civil engineering from the Institute of Engineering, Pulchowk Campus, and a master's degree in environmental science with a focus on applied remote sensing from the Yale School of the Environment. My research typically involves constructing and analysing large spatial datasets. 
 
